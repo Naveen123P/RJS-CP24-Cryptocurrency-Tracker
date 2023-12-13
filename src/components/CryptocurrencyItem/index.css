@@ -1,0 +1,13 @@
+/* Write your CSS code here */
+.logo-container {
+  display: flex;
+  align-items: center;
+}
+.logo-img {
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+}
+.table-header2 {
+  background-color: transparent;
+}
